@@ -3,7 +3,7 @@
 module(
     name = "aspect_rules_ts",
     compatibility_level = 1,
-    version = "0.0.0",
+    version = "1.0.0-rc.3",
 )
 
 bazel_dep(name = "bazel_skylib", version = "1.1.1")
